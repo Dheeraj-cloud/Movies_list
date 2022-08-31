@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e789e801.chunk.css",
-    "main.js": "/static/js/main.bcb62326.chunk.js",
-    "main.js.map": "/static/js/main.bcb62326.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.13ba5424.js",
-    "runtime-main.js.map": "/static/js/runtime-main.13ba5424.js.map",
-    "static/js/2.3acb1463.chunk.js": "/static/js/2.3acb1463.chunk.js",
-    "static/js/2.3acb1463.chunk.js.map": "/static/js/2.3acb1463.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7957dd793d26f2904c31eaf405783329.js": "/precache-manifest.7957dd793d26f2904c31eaf405783329.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e789e801.chunk.css.map": "/static/css/main.e789e801.chunk.css.map",
-    "static/js/2.3acb1463.chunk.js.LICENSE.txt": "/static/js/2.3acb1463.chunk.js.LICENSE.txt",
-    "static/js/main.bcb62326.chunk.js.LICENSE.txt": "/static/js/main.bcb62326.chunk.js.LICENSE.txt"
+    "main.css": "/Dheeraj-cloud/Movies_list/static/css/main.e789e801.chunk.css",
+    "main.js": "/Dheeraj-cloud/Movies_list/static/js/main.bcb62326.chunk.js",
+    "main.js.map": "/Dheeraj-cloud/Movies_list/static/js/main.bcb62326.chunk.js.map",
+    "runtime-main.js": "/Dheeraj-cloud/Movies_list/static/js/runtime-main.b9797eb3.js",
+    "runtime-main.js.map": "/Dheeraj-cloud/Movies_list/static/js/runtime-main.b9797eb3.js.map",
+    "static/js/2.3acb1463.chunk.js": "/Dheeraj-cloud/Movies_list/static/js/2.3acb1463.chunk.js",
+    "static/js/2.3acb1463.chunk.js.map": "/Dheeraj-cloud/Movies_list/static/js/2.3acb1463.chunk.js.map",
+    "index.html": "/Dheeraj-cloud/Movies_list/index.html",
+    "precache-manifest.c1ab519cab1718f79d740b8f824c41a1.js": "/Dheeraj-cloud/Movies_list/precache-manifest.c1ab519cab1718f79d740b8f824c41a1.js",
+    "service-worker.js": "/Dheeraj-cloud/Movies_list/service-worker.js",
+    "static/css/main.e789e801.chunk.css.map": "/Dheeraj-cloud/Movies_list/static/css/main.e789e801.chunk.css.map",
+    "static/js/2.3acb1463.chunk.js.LICENSE.txt": "/Dheeraj-cloud/Movies_list/static/js/2.3acb1463.chunk.js.LICENSE.txt",
+    "static/js/main.bcb62326.chunk.js.LICENSE.txt": "/Dheeraj-cloud/Movies_list/static/js/main.bcb62326.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.13ba5424.js",
+    "static/js/runtime-main.b9797eb3.js",
     "static/js/2.3acb1463.chunk.js",
     "static/css/main.e789e801.chunk.css",
     "static/js/main.bcb62326.chunk.js"
