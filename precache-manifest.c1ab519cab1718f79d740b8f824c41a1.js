@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01a799cd4cc4968d7cb9e377fbe5b183",
+    "revision": "060c07b7733eef82c441803f62b58c4b",
     "url": "/Dheeraj-cloud/Movies_list/index.html"
   },
   {
-    "revision": "2eb079b9879dac9c059b",
-    "url": "/Dheeraj-cloud/Movies_list/static/css/main.6f0750f6.chunk.css"
+    "revision": "90ed070a51992c0751cd",
+    "url": "/Dheeraj-cloud/Movies_list/static/css/main.e789e801.chunk.css"
   },
   {
     "revision": "fe846442e05d43de3377",
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dheeraj-cloud/Movies_list/static/js/2.3acb1463.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2eb079b9879dac9c059b",
-    "url": "/Dheeraj-cloud/Movies_list/static/js/main.3fdeb179.chunk.js"
+    "revision": "90ed070a51992c0751cd",
+    "url": "/Dheeraj-cloud/Movies_list/static/js/main.bcb62326.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/Dheeraj-cloud/Movies_list/static/js/main.3fdeb179.chunk.js.LICENSE.txt"
+    "url": "/Dheeraj-cloud/Movies_list/static/js/main.bcb62326.chunk.js.LICENSE.txt"
   },
   {
     "revision": "380a504064e2a426cbb0",
